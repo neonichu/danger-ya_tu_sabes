@@ -1,6 +1,6 @@
-# danger-ya_tu_sabes
+# danger-ya\_tu\_sabes
 
-A description of danger-ya_tu_sabes.
+Ya tu sabes.
 
 ## Installation
 
@@ -8,5 +8,16 @@ A description of danger-ya_tu_sabes.
 
 ## Usage
 
-    Methods and attributes from this plugin are available in
-    your `Dangerfile` under the `ya_tu_sabes` namespace.
+Once you have it installed, your `danger` warnings will be so much more
+useful:
+
+```
+danger results:
+
++-------------+
+|  Warnings   |
++-------------+
+| ya tu sabes |
++-------------+
+```
+
